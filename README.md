@@ -20,9 +20,13 @@ This Power BI dashboard is designed to visualize the student complaint data at m
 
 # Tools Used
 Microsoft Power BI for dashboard creation and visualization
+
 DAX for advanced data modeling and calculations
+
 Microsoft Excel for initial data compilation and management
+
 Power Automate for streamlining data updates
+
 SharePoint and Microsoft Lists for data integration and management
 # Usage
 This dashboard serves as a vital tool for college administrators to monitor, address, and analyze student complaints efficiently. By providing a clear and interactive visual representation of data, the dashboard aids in making informed decisions to enhance the overall student experience.
