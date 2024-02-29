@@ -1,9 +1,11 @@
 # Student-Complaint-Report-Dashboard
 
 # Overview
+
 This Power BI dashboard is designed to visualize the student complaint data at my college. Its main goal is to provide actionable insights into student complaints across various dimensions such as resolution status, department, year, and term.
 
 # Features
+
 **Complaints Overview:** Displays the total number of complaints, highlighting how many have been resolved, are in progress, or deemed not relevant.
 **Resolution Status Breakdown:** Offers a detailed breakdown of complaints by their current resolution status, allowing quick identification of areas needing attention.
 **Departmental and Yearly Analysis:** Segregates complaints by department and academic year to track trends and identify patterns over time.
