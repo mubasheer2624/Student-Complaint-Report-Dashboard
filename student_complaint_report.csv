@@ -1,0 +1,501 @@
+Serial No,Name,Student ID,Date of Incident,Place of Incident,Program/Course,Term,Incident Category,Status,Email
+1,Megan Singh,500666528,2021-03-25,Applied Industry Project,Wireless Information Networking,2,Suggestion/ Feedback,Not Resolved,megan.singh@loyalistcollege.com
+2,Jennifer Green,500313072,2021-10-31,Off Campus,Business Sales and Marketing,3,Inquiry,In Progress,jennifer.green@loyalistcollege.com
+3,Jennifer Bowers,500938260,2022-02-05,Off Campus,Hospitality Management,1,Other,Resolved,jennifer.bowers@loyalistcollege.com
+4,John Silva,500732485,2021-10-02,Moodle / E- Learning,Computer Software and Database Development,1,Suggestion/ Feedback,In Progress,john.silva@loyalistcollege.com
+5,Kathy Campbell,500673812,2023-06-26,Moodle / E- Learning,Business Sales and Marketing,2,Suggestion/ Feedback,Not Relevant Complaint,kathy.campbell@loyalistcollege.com
+6,Katelyn Gupta,500716161,2022-05-20,On Campus,Computer Systems Technician,3,Other,Not Relevant Complaint,katelyn.gupta@loyalistcollege.com
+7,Danielle Browning,500401630,2022-04-05,On Co-op/Placement,Business Sales and Marketing,3,Inquiry,Resolved,danielle.browning@loyalistcollege.com
+8,Dr. Stephanie Collins,500566604,2022-08-14,On Co-op/Placement,Global Project Management,3,Lost and Found,Resolved,dr..stephanie.collins@loyalistcollege.com
+9,Stephanie Sutton,500196083,2021-03-06,On Campus,Computer Software and Database Development,3,Other,Not Resolved,stephanie.sutton@loyalistcollege.com
+10,Brian Hamilton,500725252,2022-03-29,In Class,Cyber Security,3,Suggestion/ Feedback,Not Relevant Complaint,brian.hamilton@loyalistcollege.com
+11,Cheryl Singh,500936695,2023-05-07,Applied Industry Project,Global Business Management,4,Other,Not Resolved,cheryl.singh@loyalistcollege.com
+12,Tracy Woods,500503598,2022-11-01,Moodle / E- Learning,Global Business Management,4,Inquiry,Not Resolved,tracy.woods@loyalistcollege.com
+13,Debbie Trujillo,500432447,2021-02-24,Moodle / E- Learning,Cyber Security,4,Suggestion/ Feedback,In Progress,debbie.trujillo@loyalistcollege.com
+14,Alexis Cortez,500703613,2022-09-30,Applied Industry Project,Global Project Management,2,Suggestion/ Feedback,Not Resolved,alexis.cortez@loyalistcollege.com
+15,Roger Barnett,500353867,2022-02-22,Applied Industry Project,Global Business Management,1,Other,Resolved,roger.barnett@loyalistcollege.com
+16,Aaron Gupta,500404432,2022-08-06,In Class,Wireless Information Networking,2,Suggestion/ Feedback,Resolved,aaron.gupta@loyalistcollege.com
+17,Sean Sanchez MD,500292800,2021-11-20,On Co-op/Placement,Computer Systems Technician,1,Suggestion/ Feedback,In Progress,sean.sanchez.md@loyalistcollege.com
+18,Cheryl Bradley,500298591,2022-06-23,On Campus,Cyber Security,4,Other,Not Relevant Complaint,cheryl.bradley@loyalistcollege.com
+19,Walter Pratt,500961370,2021-07-28,Applied Industry Project,Computer Systems Technician,2,Suggestion/ Feedback,In Progress,walter.pratt@loyalistcollege.com
+20,Bobby Flores,500295800,2021-07-25,On Co-op/Placement,Global Project Management,3,Lost and Found,Resolved,bobby.flores@loyalistcollege.com
+21,William Patel,500134574,2021-06-21,On Campus,Computer Systems Technician,1,Other,In Progress,william.patel@loyalistcollege.com
+22,Ashley Arnold,500742539,2023-08-11,Off Campus,Quality Engineering Management,4,Suggestion/ Feedback,In Progress,ashley.arnold@loyalistcollege.com
+23,Kimberly Olsen,500788557,2022-07-09,On Co-op/Placement,Wireless Information Networking,3,Lost and Found,Not Relevant Complaint,kimberly.olsen@loyalistcollege.com
+24,Tracey Morrison,500372688,2021-09-15,Applied Industry Project,Artificial Intelligence and Data Science,2,Other,In Progress,tracey.morrison@loyalistcollege.com
+25,Jill Carlson,500599678,2021-02-18,Moodle / E- Learning,Global Business Management,1,Inquiry,Not Relevant Complaint,jill.carlson@loyalistcollege.com
+26,Paul Reddy,500172441,2022-10-31,Moodle / E- Learning,Artificial Intelligence and Data Science,4,Suggestion/ Feedback,In Progress,paul.reddy@loyalistcollege.com
+27,Donna Lopez,500194187,2023-06-15,Off Campus,Computer Systems Technician,3,Inquiry,Not Resolved,donna.lopez@loyalistcollege.com
+28,Lonnie Douglas,500811693,2022-09-11,In Class,Supply Chain Management,2,Inquiry,Not Resolved,lonnie.douglas@loyalistcollege.com
+29,Brandon Todd,500894405,2022-12-22,In Class,Business,2,Suggestion/ Feedback,Not Relevant Complaint,brandon.todd@loyalistcollege.com
+30,Tammy Kirby,500236550,2021-04-29,On Co-op/Placement,Business Sales and Marketing,1,Other,Not Resolved,tammy.kirby@loyalistcollege.com
+31,Rachael Kumar,500256814,2021-05-01,In Class,Computer Software and Database Development,2,Inquiry,In Progress,rachael.kumar@loyalistcollege.com
+32,Kimberly Myers,500140518,2022-10-23,In Class,Artificial Intelligence and Data Science,1,Lost and Found,Not Resolved,kimberly.myers@loyalistcollege.com
+33,Desiree Cain,500983383,2023-04-27,On Campus,Wireless Information Networking,4,Other,Not Relevant Complaint,desiree.cain@loyalistcollege.com
+34,Stephanie Lawrence,500184146,2023-05-11,On Campus,Supply Chain Management,4,Other,Resolved,stephanie.lawrence@loyalistcollege.com
+35,Lauren Hayes,500833293,2021-08-03,In Class,Supply Chain Management,3,Other,Resolved,lauren.hayes@loyalistcollege.com
+36,Donna Gupta,500969647,2021-09-20,Applied Industry Project,Business Sales and Marketing,3,Other,In Progress,donna.gupta@loyalistcollege.com
+37,Sydney Leon MD,500666860,2021-08-26,In Class,Computer Systems Technician,3,Inquiry,Not Resolved,sydney.leon.md@loyalistcollege.com
+38,Katelyn Mccoy,500816700,2021-11-19,Off Campus,Quality Engineering Management,1,Other,Resolved,katelyn.mccoy@loyalistcollege.com
+39,Dana Dennis,500510303,2021-09-13,Applied Industry Project,Cloud Computing,4,Suggestion/ Feedback,In Progress,dana.dennis@loyalistcollege.com
+40,Daniel Norton,500978565,2021-12-21,On Campus,Quality Engineering Management,3,Other,Resolved,daniel.norton@loyalistcollege.com
+41,Marvin Gupta,500839543,2021-02-16,On Campus,Business,3,Inquiry,Resolved,marvin.gupta@loyalistcollege.com
+42,Ashlee Thomas,500650055,2023-03-28,Moodle / E- Learning,Wireless Information Networking,3,Suggestion/ Feedback,Not Relevant Complaint,ashlee.thomas@loyalistcollege.com
+43,Amber Berry,500389023,2021-07-30,Off Campus,Hospitality Management,3,Lost and Found,Not Relevant Complaint,amber.berry@loyalistcollege.com
+44,Kimberly Becker,500647136,2023-02-05,Applied Industry Project,Cyber Security,2,Lost and Found,Resolved,kimberly.becker@loyalistcollege.com
+45,Mark Obrien,500951054,2022-07-09,On Co-op/Placement,Cloud Computing,4,Other,Resolved,mark.obrien@loyalistcollege.com
+46,Barbara Singh,500346941,2023-08-27,Off Campus,Cyber Security,2,Suggestion/ Feedback,Not Resolved,barbara.singh@loyalistcollege.com
+47,Jacob Hooper,500990750,2022-03-24,On Co-op/Placement,Computer Software and Database Development,1,Other,Not Relevant Complaint,jacob.hooper@loyalistcollege.com
+48,Alex Woodward,500325654,2022-06-05,On Co-op/Placement,Global Business Management,2,Inquiry,In Progress,alex.woodward@loyalistcollege.com
+49,Caleb Clark,500812480,2021-07-04,In Class,Global Project Management,4,Other,Not Resolved,caleb.clark@loyalistcollege.com
+50,Taylor Johnson,500718451,2022-09-28,On Co-op/Placement,Artificial Intelligence and Data Science,3,Lost and Found,Resolved,taylor.johnson@loyalistcollege.com
+51,Ronald Singh,500965351,2022-02-11,In Class,Supply Chain Management,4,Lost and Found,Not Relevant Complaint,ronald.singh@loyalistcollege.com
+52,David Walker,500539797,2021-09-03,Moodle / E- Learning,Wireless Information Networking,1,Other,Not Relevant Complaint,david.walker@loyalistcollege.com
+53,Hayley White,500707854,2022-06-17,On Co-op/Placement,Hospitality Management,4,Lost and Found,Not Relevant Complaint,hayley.white@loyalistcollege.com
+54,Amanda Garcia,500388579,2023-02-19,On Co-op/Placement,Supply Chain Management,2,Suggestion/ Feedback,In Progress,amanda.garcia@loyalistcollege.com
+55,Christina Howard PhD,500572449,2022-05-31,In Class,Supply Chain Management,1,Inquiry,Not Relevant Complaint,christina.howard.phd@loyalistcollege.com
+56,Mary Reddy,500616586,2023-04-09,Moodle / E- Learning,Hospitality Management,3,Suggestion/ Feedback,In Progress,mary.reddy@loyalistcollege.com
+57,Caroline Chambers,500792317,2021-08-13,Off Campus,Wireless Information Networking,2,Inquiry,Not Resolved,caroline.chambers@loyalistcollege.com
+58,Amy Lowe,500772343,2022-08-08,On Campus,Global Business Management,2,Lost and Found,Not Resolved,amy.lowe@loyalistcollege.com
+59,Gloria King,500834239,2023-05-13,Applied Industry Project,Quality Engineering Management,3,Inquiry,In Progress,gloria.king@loyalistcollege.com
+60,Jessica Thompson,500931861,2022-04-20,On Co-op/Placement,Global Project Management,4,Suggestion/ Feedback,Not Relevant Complaint,jessica.thompson@loyalistcollege.com
+61,Thomas Gupta,500474727,2021-12-31,On Co-op/Placement,Global Project Management,1,Lost and Found,Resolved,thomas.gupta@loyalistcollege.com
+62,Keith Romero,500186374,2022-08-12,Off Campus,Cloud Computing,2,Inquiry,Not Resolved,keith.romero@loyalistcollege.com
+63,Howard Monroe,500440079,2022-06-23,Off Campus,Wireless Information Networking,2,Lost and Found,Not Relevant Complaint,howard.monroe@loyalistcollege.com
+64,Justin Smith,500742549,2022-08-30,Off Campus,Global Project Management,3,Lost and Found,Resolved,justin.smith@loyalistcollege.com
+65,Gabriella Williams,500220952,2023-01-03,On Co-op/Placement,Computer Systems Technician,2,Other,Resolved,gabriella.williams@loyalistcollege.com
+66,Juan Reddy,500610073,2023-03-06,On Co-op/Placement,Computer Software and Database Development,4,Lost and Found,Not Resolved,juan.reddy@loyalistcollege.com
+67,Troy Bell,500715592,2022-04-21,On Campus,Cloud Computing,1,Inquiry,Resolved,troy.bell@loyalistcollege.com
+68,Ian Arroyo,500760757,2022-09-30,In Class,Artificial Intelligence and Data Science,4,Lost and Found,Not Resolved,ian.arroyo@loyalistcollege.com
+69,Lisa Baldwin,500451556,2022-09-24,Moodle / E- Learning,Artificial Intelligence and Data Science,2,Inquiry,Not Resolved,lisa.baldwin@loyalistcollege.com
+70,Jason Curtis,500986128,2021-06-01,In Class,Artificial Intelligence and Data Science,4,Lost and Found,Not Resolved,jason.curtis@loyalistcollege.com
+71,Aaron Kumar,500299626,2021-08-28,Moodle / E- Learning,Business Sales and Marketing,1,Other,Not Resolved,aaron.kumar@loyalistcollege.com
+72,George Allen,500354841,2021-08-18,On Campus,Computer Software and Database Development,2,Inquiry,In Progress,george.allen@loyalistcollege.com
+73,Jamie Hutchinson,500116996,2021-01-08,Applied Industry Project,Artificial Intelligence and Data Science,2,Lost and Found,Not Resolved,jamie.hutchinson@loyalistcollege.com
+74,Jennifer Morales,500867022,2023-06-26,On Co-op/Placement,Cloud Computing,4,Other,Not Relevant Complaint,jennifer.morales@loyalistcollege.com
+75,Jennifer Bates,500384203,2023-07-15,On Co-op/Placement,Supply Chain Management,1,Lost and Found,Not Relevant Complaint,jennifer.bates@loyalistcollege.com
+76,Brandon Sharma,500222824,2023-03-15,Applied Industry Project,Artificial Intelligence and Data Science,4,Inquiry,Not Relevant Complaint,brandon.sharma@loyalistcollege.com
+77,David Moore,500839595,2021-06-15,Applied Industry Project,Business Sales and Marketing,4,Inquiry,Not Resolved,david.moore@loyalistcollege.com
+78,Katelyn Hoffman,500331169,2021-11-15,In Class,Business,3,Inquiry,Resolved,katelyn.hoffman@loyalistcollege.com
+79,Stacey Simpson,500490133,2023-07-15,Off Campus,Cyber Security,3,Other,In Progress,stacey.simpson@loyalistcollege.com
+80,John Lamb,500933180,2023-07-26,Applied Industry Project,Global Business Management,4,Other,Not Resolved,john.lamb@loyalistcollege.com
+81,Nancy Kumar,500278763,2023-03-09,Applied Industry Project,Supply Chain Management,3,Other,Not Relevant Complaint,nancy.kumar@loyalistcollege.com
+82,Chelsea Key,500448689,2021-06-22,Off Campus,Computer Systems Technician,3,Lost and Found,In Progress,chelsea.key@loyalistcollege.com
+83,Angela Swanson,500546830,2022-02-19,Off Campus,Quality Engineering Management,1,Other,Not Resolved,angela.swanson@loyalistcollege.com
+84,Mrs. Meghan Stewart,500955546,2023-08-13,Off Campus,Global Business Management,3,Inquiry,In Progress,mrs..meghan.stewart@loyalistcollege.com
+85,Mitchell Smith,500165213,2021-09-19,In Class,Hospitality Management,1,Other,Not Relevant Complaint,mitchell.smith@loyalistcollege.com
+86,Mackenzie Sharma,500205494,2022-08-07,On Campus,Computer Systems Technician,4,Lost and Found,Not Resolved,mackenzie.sharma@loyalistcollege.com
+87,Anne Wilson,500921159,2021-05-13,Moodle / E- Learning,Global Project Management,1,Suggestion/ Feedback,Not Resolved,anne.wilson@loyalistcollege.com
+88,Shelly Ramirez,500253467,2021-02-25,On Campus,Computer Systems Technician,3,Lost and Found,Not Relevant Complaint,shelly.ramirez@loyalistcollege.com
+89,Ariel Nash,500996870,2021-01-17,On Campus,Computer Software and Database Development,2,Suggestion/ Feedback,In Progress,ariel.nash@loyalistcollege.com
+90,Brad Hill,500831560,2021-06-29,Applied Industry Project,Quality Engineering Management,4,Suggestion/ Feedback,Resolved,brad.hill@loyalistcollege.com
+91,Shawn Reddy,500329400,2022-07-17,Moodle / E- Learning,Business,4,Suggestion/ Feedback,Not Relevant Complaint,shawn.reddy@loyalistcollege.com
+92,Shannon Anderson,500147431,2023-01-17,Applied Industry Project,Quality Engineering Management,4,Other,Not Relevant Complaint,shannon.anderson@loyalistcollege.com
+93,Marilyn Reed,500956812,2022-05-10,In Class,Business,4,Inquiry,Not Resolved,marilyn.reed@loyalistcollege.com
+94,Diana Smith,500701742,2021-06-17,In Class,Cyber Security,1,Lost and Found,Not Relevant Complaint,diana.smith@loyalistcollege.com
+95,Michael Grant,500765013,2022-12-05,Off Campus,Computer Software and Database Development,4,Suggestion/ Feedback,In Progress,michael.grant@loyalistcollege.com
+96,Stacey Sharma,500660147,2022-07-28,Off Campus,Computer Software and Database Development,3,Lost and Found,In Progress,stacey.sharma@loyalistcollege.com
+97,Susan Williams,500731421,2023-06-27,On Campus,Hospitality Management,2,Lost and Found,In Progress,susan.williams@loyalistcollege.com
+98,Meredith Rios,500813649,2022-01-30,Off Campus,Global Project Management,3,Suggestion/ Feedback,In Progress,meredith.rios@loyalistcollege.com
+99,Stephanie Bowman,500177591,2023-01-26,On Co-op/Placement,Computer Software and Database Development,3,Lost and Found,Not Resolved,stephanie.bowman@loyalistcollege.com
+100,Joshua Clark,500127993,2021-12-22,Moodle / E- Learning,Cloud Computing,1,Inquiry,Not Relevant Complaint,joshua.clark@loyalistcollege.com
+101,Brenda Singh,500230488,2021-09-05,In Class,Artificial Intelligence and Data Science,4,Inquiry,Resolved,brenda.singh@loyalistcollege.com
+102,Chris Cook,500765845,2023-05-23,Moodle / E- Learning,Hospitality Management,4,Other,Resolved,chris.cook@loyalistcollege.com
+103,Michelle Morgan,500297678,2023-05-07,Moodle / E- Learning,Artificial Intelligence and Data Science,2,Inquiry,Resolved,michelle.morgan@loyalistcollege.com
+104,Amanda Martin,500735791,2021-05-02,On Campus,Computer Systems Technician,1,Suggestion/ Feedback,In Progress,amanda.martin@loyalistcollege.com
+105,Mrs. Jennifer Kelley,500970408,2023-03-01,Applied Industry Project,Computer Software and Database Development,1,Inquiry,Not Relevant Complaint,mrs..jennifer.kelley@loyalistcollege.com
+106,Kelly Patel,500703930,2021-09-18,Off Campus,Business,3,Other,Not Resolved,kelly.patel@loyalistcollege.com
+107,David Williams,500225509,2021-02-10,In Class,Computer Systems Technician,3,Lost and Found,Not Resolved,david.williams@loyalistcollege.com
+108,Joseph Jones,500510212,2021-09-17,On Co-op/Placement,Hospitality Management,1,Lost and Found,Not Resolved,joseph.jones@loyalistcollege.com
+109,Gary Perry,500195978,2023-03-15,Off Campus,Computer Software and Database Development,1,Other,Not Resolved,gary.perry@loyalistcollege.com
+110,Terry Wells,500488119,2022-09-28,Off Campus,Computer Systems Technician,2,Lost and Found,Resolved,terry.wells@loyalistcollege.com
+111,Mary Kumar,500974349,2023-08-03,Off Campus,Computer Systems Technician,1,Other,In Progress,mary.kumar@loyalistcollege.com
+112,Gwendolyn Mendoza,500221683,2021-11-20,In Class,Cloud Computing,4,Other,In Progress,gwendolyn.mendoza@loyalistcollege.com
+113,Jessica Turner,500138159,2022-11-12,In Class,Supply Chain Management,1,Inquiry,In Progress,jessica.turner@loyalistcollege.com
+114,Stephanie Gillespie,500734917,2022-09-22,Off Campus,Wireless Information Networking,3,Other,Not Resolved,stephanie.gillespie@loyalistcollege.com
+115,Jaime Villegas,500122687,2022-02-15,On Campus,Wireless Information Networking,1,Suggestion/ Feedback,Resolved,jaime.villegas@loyalistcollege.com
+116,Danielle Singh,500304043,2021-02-02,In Class,Cloud Computing,3,Inquiry,Not Resolved,danielle.singh@loyalistcollege.com
+117,Bradley Brady,500293957,2023-07-02,In Class,Cloud Computing,4,Other,Resolved,bradley.brady@loyalistcollege.com
+118,Adam Long,500852996,2021-07-28,On Co-op/Placement,Hospitality Management,2,Suggestion/ Feedback,In Progress,adam.long@loyalistcollege.com
+119,Joan Burns,500229913,2022-08-27,On Co-op/Placement,Global Business Management,3,Other,Resolved,joan.burns@loyalistcollege.com
+120,Meghan Henderson,500602512,2021-09-24,On Campus,Cloud Computing,4,Lost and Found,Not Resolved,meghan.henderson@loyalistcollege.com
+121,Micheal Reddy,500320805,2022-11-17,Moodle / E- Learning,Global Project Management,2,Suggestion/ Feedback,Not Resolved,micheal.reddy@loyalistcollege.com
+122,Debbie Waters MD,500862477,2023-05-28,Applied Industry Project,Computer Software and Database Development,2,Inquiry,Resolved,debbie.waters.md@loyalistcollege.com
+123,Austin Boyer,500939643,2021-03-25,In Class,Wireless Information Networking,4,Other,In Progress,austin.boyer@loyalistcollege.com
+124,Stephanie Hayes,500164052,2022-08-06,Moodle / E- Learning,Computer Systems Technician,3,Inquiry,Resolved,stephanie.hayes@loyalistcollege.com
+125,Barbara Sanders,500812347,2021-05-15,On Co-op/Placement,Artificial Intelligence and Data Science,1,Suggestion/ Feedback,Not Relevant Complaint,barbara.sanders@loyalistcollege.com
+126,Jared Kumar,500123889,2023-07-03,Moodle / E- Learning,Cloud Computing,2,Other,Resolved,jared.kumar@loyalistcollege.com
+127,Travis Lewis,500670672,2022-09-22,Applied Industry Project,Hospitality Management,2,Other,Not Relevant Complaint,travis.lewis@loyalistcollege.com
+128,Craig Gray,500546293,2022-06-04,On Campus,Business,2,Lost and Found,Not Relevant Complaint,craig.gray@loyalistcollege.com
+129,Brittany Hinton,500750746,2021-12-29,Off Campus,Artificial Intelligence and Data Science,4,Other,Not Resolved,brittany.hinton@loyalistcollege.com
+130,Mrs. Jennifer Frazier,500206430,2023-02-27,Off Campus,Global Project Management,1,Lost and Found,Not Resolved,mrs..jennifer.frazier@loyalistcollege.com
+131,Natalie Kaur,500976507,2022-12-09,In Class,Global Project Management,1,Other,Resolved,natalie.kaur@loyalistcollege.com
+132,Thomas Morris MD,500372545,2021-03-02,In Class,Wireless Information Networking,4,Other,Not Relevant Complaint,thomas.morris.md@loyalistcollege.com
+133,Mr. Dakota Lynch II,500173404,2023-01-16,On Co-op/Placement,Global Project Management,2,Inquiry,Not Relevant Complaint,mr..dakota.lynch.ii@loyalistcollege.com
+134,Victor Nolan,500331556,2023-08-22,Moodle / E- Learning,Artificial Intelligence and Data Science,3,Other,Not Relevant Complaint,victor.nolan@loyalistcollege.com
+135,Amanda Hernandez,500175467,2021-06-08,Off Campus,Cyber Security,1,Inquiry,Not Relevant Complaint,amanda.hernandez@loyalistcollege.com
+136,Jonathan Singh,500778350,2022-02-22,On Co-op/Placement,Global Business Management,1,Suggestion/ Feedback,Not Relevant Complaint,jonathan.singh@loyalistcollege.com
+137,Sarah Aguilar,500415685,2023-02-28,Moodle / E- Learning,Global Project Management,2,Other,Not Resolved,sarah.aguilar@loyalistcollege.com
+138,Renee Jones,500467309,2023-02-01,Applied Industry Project,Global Project Management,3,Other,In Progress,renee.jones@loyalistcollege.com
+139,Sean Williams,500557251,2023-05-06,Moodle / E- Learning,Global Project Management,2,Inquiry,In Progress,sean.williams@loyalistcollege.com
+140,Andrew Smith,500289077,2022-09-05,In Class,Business,3,Inquiry,Not Relevant Complaint,andrew.smith@loyalistcollege.com
+141,Megan Kumar,500164007,2023-01-05,Moodle / E- Learning,Business,3,Other,Resolved,megan.kumar@loyalistcollege.com
+142,Christopher Hernandez,500628101,2022-02-17,Moodle / E- Learning,Business,3,Suggestion/ Feedback,In Progress,christopher.hernandez@loyalistcollege.com
+143,Tracy Wagner,500589822,2021-10-09,On Co-op/Placement,Computer Systems Technician,3,Suggestion/ Feedback,Not Resolved,tracy.wagner@loyalistcollege.com
+144,Kathryn Berry,500141291,2021-12-23,Applied Industry Project,Business,4,Other,In Progress,kathryn.berry@loyalistcollege.com
+145,Renee Chang,500725459,2023-04-21,On Campus,Cyber Security,2,Inquiry,In Progress,renee.chang@loyalistcollege.com
+146,Vicki Sharma,500205823,2022-07-20,Off Campus,Business Sales and Marketing,4,Lost and Found,Not Resolved,vicki.sharma@loyalistcollege.com
+147,Susan Harris,500833293,2021-09-05,Applied Industry Project,Global Business Management,2,Inquiry,Not Relevant Complaint,susan.harris@loyalistcollege.com
+148,Linda Petersen,500510282,2022-04-15,Moodle / E- Learning,Computer Systems Technician,1,Suggestion/ Feedback,Not Resolved,linda.petersen@loyalistcollege.com
+149,Dr. James Willis,500309039,2023-08-04,Moodle / E- Learning,Global Project Management,2,Lost and Found,Not Resolved,dr..james.willis@loyalistcollege.com
+150,Rebecca Sandoval,500372769,2021-08-12,In Class,Quality Engineering Management,1,Lost and Found,Resolved,rebecca.sandoval@loyalistcollege.com
+151,Aaron Reddy,500475972,2022-12-11,On Co-op/Placement,Business,3,Inquiry,Resolved,aaron.reddy@loyalistcollege.com
+152,Jonathon Scott,500867136,2021-04-17,On Campus,Global Business Management,1,Suggestion/ Feedback,Resolved,jonathon.scott@loyalistcollege.com
+153,Scott Hahn,500593057,2021-04-17,In Class,Hospitality Management,2,Lost and Found,Not Relevant Complaint,scott.hahn@loyalistcollege.com
+154,Jason Patrick,500979049,2023-01-13,Off Campus,Cyber Security,4,Suggestion/ Feedback,Not Relevant Complaint,jason.patrick@loyalistcollege.com
+155,Martin Anderson,500697445,2022-09-03,Off Campus,Global Business Management,2,Inquiry,Resolved,martin.anderson@loyalistcollege.com
+156,Justin Patel,500277654,2023-05-30,Applied Industry Project,Artificial Intelligence and Data Science,4,Other,Not Relevant Complaint,justin.patel@loyalistcollege.com
+157,Amy Johnson,500831588,2022-09-29,On Campus,Business Sales and Marketing,2,Other,Resolved,amy.johnson@loyalistcollege.com
+158,John Boyer,500805314,2023-05-14,Off Campus,Computer Systems Technician,3,Inquiry,In Progress,john.boyer@loyalistcollege.com
+159,Megan Hernandez,500313295,2021-05-24,Applied Industry Project,Global Project Management,2,Other,Not Resolved,megan.hernandez@loyalistcollege.com
+160,Mrs. Lisa Hughes,500904623,2022-02-17,Moodle / E- Learning,Computer Systems Technician,4,Other,Not Relevant Complaint,mrs..lisa.hughes@loyalistcollege.com
+161,Brandon Kaur,500160870,2023-01-20,In Class,Business Sales and Marketing,1,Inquiry,Resolved,brandon.kaur@loyalistcollege.com
+162,Christian Johnson,500926957,2021-12-23,In Class,Cloud Computing,1,Inquiry,Resolved,christian.johnson@loyalistcollege.com
+163,Lorraine Garcia,500809048,2021-06-22,In Class,Computer Software and Database Development,3,Other,Not Resolved,lorraine.garcia@loyalistcollege.com
+164,Hannah Reyes,500265893,2022-04-06,Off Campus,Computer Software and Database Development,1,Lost and Found,In Progress,hannah.reyes@loyalistcollege.com
+165,Katherine Ibarra,500986491,2021-08-08,Applied Industry Project,Global Business Management,1,Suggestion/ Feedback,Not Resolved,katherine.ibarra@loyalistcollege.com
+166,Chelsea Patel,500269821,2022-07-13,In Class,Business,1,Inquiry,Not Relevant Complaint,chelsea.patel@loyalistcollege.com
+167,Mark Morgan,500458940,2021-05-27,On Co-op/Placement,Hospitality Management,4,Suggestion/ Feedback,Not Resolved,mark.morgan@loyalistcollege.com
+168,Michael Howell,500655193,2021-08-04,Moodle / E- Learning,Cloud Computing,3,Inquiry,Resolved,michael.howell@loyalistcollege.com
+169,Bethany Buck,500362864,2021-03-30,On Co-op/Placement,Quality Engineering Management,4,Other,Not Relevant Complaint,bethany.buck@loyalistcollege.com
+170,Sydney Brennan,500222906,2021-08-01,On Co-op/Placement,Hospitality Management,3,Inquiry,In Progress,sydney.brennan@loyalistcollege.com
+171,Erin Singh,500725781,2023-07-01,On Campus,Cyber Security,4,Other,Not Resolved,erin.singh@loyalistcollege.com
+172,Kelly Floyd,500563799,2023-05-18,On Campus,Computer Systems Technician,3,Inquiry,Not Resolved,kelly.floyd@loyalistcollege.com
+173,Richard Wallace,500797938,2021-11-05,In Class,Wireless Information Networking,1,Other,Not Resolved,richard.wallace@loyalistcollege.com
+174,Joy Clarke,500283311,2021-01-11,Moodle / E- Learning,Cloud Computing,2,Lost and Found,Resolved,joy.clarke@loyalistcollege.com
+175,Andrew Villa,500113845,2021-02-21,On Co-op/Placement,Cyber Security,3,Inquiry,Not Resolved,andrew.villa@loyalistcollege.com
+176,Todd Kaur,500594535,2022-09-21,Moodle / E- Learning,Global Project Management,1,Other,Resolved,todd.kaur@loyalistcollege.com
+177,Theresa Estrada,500814374,2023-05-18,On Co-op/Placement,Hospitality Management,2,Suggestion/ Feedback,In Progress,theresa.estrada@loyalistcollege.com
+178,Cindy Davis,500529816,2023-07-24,Off Campus,Quality Engineering Management,2,Inquiry,Resolved,cindy.davis@loyalistcollege.com
+179,Stacy Chan,500696757,2023-02-01,On Co-op/Placement,Global Project Management,1,Lost and Found,Resolved,stacy.chan@loyalistcollege.com
+180,Jennifer Torres,500633305,2021-06-16,Applied Industry Project,Hospitality Management,3,Lost and Found,Not Relevant Complaint,jennifer.torres@loyalistcollege.com
+181,Daniel Reddy,500426574,2023-01-05,In Class,Supply Chain Management,2,Lost and Found,Not Relevant Complaint,daniel.reddy@loyalistcollege.com
+182,Keith Livingston,500780456,2023-05-20,On Campus,Cloud Computing,1,Inquiry,Not Relevant Complaint,keith.livingston@loyalistcollege.com
+183,Jennifer Garcia,500474500,2022-06-24,Off Campus,Cloud Computing,4,Inquiry,Not Resolved,jennifer.garcia@loyalistcollege.com
+184,Morgan Johnson,500507520,2022-06-17,On Co-op/Placement,Computer Systems Technician,1,Other,In Progress,morgan.johnson@loyalistcollege.com
+185,Michael Johnson,500978351,2021-06-01,Off Campus,Artificial Intelligence and Data Science,3,Inquiry,Not Relevant Complaint,michael.johnson@loyalistcollege.com
+186,Samantha Gupta,500789560,2021-01-08,In Class,Business,4,Lost and Found,Resolved,samantha.gupta@loyalistcollege.com
+187,Miranda Miller,500363121,2022-01-11,In Class,Quality Engineering Management,1,Other,In Progress,miranda.miller@loyalistcollege.com
+188,Ian Johnson,500260864,2021-12-19,Off Campus,Cyber Security,2,Suggestion/ Feedback,Not Resolved,ian.johnson@loyalistcollege.com
+189,Adam Mccann,500687831,2023-02-13,In Class,Wireless Information Networking,3,Suggestion/ Feedback,Not Relevant Complaint,adam.mccann@loyalistcollege.com
+190,Andrea Barry,500824380,2022-04-29,In Class,Business,1,Other,In Progress,andrea.barry@loyalistcollege.com
+191,Jared Kumar,500113040,2022-03-03,Off Campus,Business Sales and Marketing,4,Inquiry,Not Relevant Complaint,jared.kumar@loyalistcollege.com
+192,Michael Mays,500580199,2021-12-15,On Campus,Wireless Information Networking,1,Inquiry,Resolved,michael.mays@loyalistcollege.com
+193,Adam Wood,500877597,2021-01-14,Moodle / E- Learning,Global Business Management,4,Suggestion/ Feedback,Not Relevant Complaint,adam.wood@loyalistcollege.com
+194,Larry Villarreal,500182914,2023-02-09,In Class,Computer Systems Technician,3,Suggestion/ Feedback,In Progress,larry.villarreal@loyalistcollege.com
+195,Brian Cooper,500452234,2022-07-06,Off Campus,Computer Systems Technician,3,Other,Not Resolved,brian.cooper@loyalistcollege.com
+196,Susan Patel,500874914,2023-03-02,Off Campus,Cloud Computing,3,Other,Not Relevant Complaint,susan.patel@loyalistcollege.com
+197,Vincent Cox,500147916,2022-06-14,Moodle / E- Learning,Wireless Information Networking,4,Other,In Progress,vincent.cox@loyalistcollege.com
+198,Edward Giles,500670760,2021-05-23,Off Campus,Supply Chain Management,4,Suggestion/ Feedback,Not Relevant Complaint,edward.giles@loyalistcollege.com
+199,Makayla White,500394527,2021-05-01,In Class,Artificial Intelligence and Data Science,2,Other,Resolved,makayla.white@loyalistcollege.com
+200,Ashley Carpenter MD,500241387,2022-04-19,Off Campus,Wireless Information Networking,1,Lost and Found,Resolved,ashley.carpenter.md@loyalistcollege.com
+201,Rachael Reddy,500351794,2023-06-11,Applied Industry Project,Hospitality Management,4,Inquiry,Not Relevant Complaint,rachael.reddy@loyalistcollege.com
+202,Regina Stewart,500899189,2022-10-19,Moodle / E- Learning,Hospitality Management,3,Inquiry,In Progress,regina.stewart@loyalistcollege.com
+203,Paul Carter,500605232,2021-12-18,Applied Industry Project,Global Business Management,2,Lost and Found,Not Relevant Complaint,paul.carter@loyalistcollege.com
+204,Angel Anderson,500469335,2022-07-25,In Class,Artificial Intelligence and Data Science,4,Inquiry,Not Relevant Complaint,angel.anderson@loyalistcollege.com
+205,Blake Jones,500739773,2022-08-16,Applied Industry Project,Business,1,Other,In Progress,blake.jones@loyalistcollege.com
+206,Robert Gupta,500401861,2021-08-14,In Class,Global Business Management,3,Other,Resolved,robert.gupta@loyalistcollege.com
+207,Natalie Thomas,500806114,2021-12-26,In Class,Supply Chain Management,1,Inquiry,Not Relevant Complaint,natalie.thomas@loyalistcollege.com
+208,Mark Miller,500476649,2022-03-24,Applied Industry Project,Cloud Computing,1,Suggestion/ Feedback,Resolved,mark.miller@loyalistcollege.com
+209,Jacob Rush,500718951,2021-11-06,Moodle / E- Learning,Business,1,Lost and Found,In Progress,jacob.rush@loyalistcollege.com
+210,Jason Butler,500764532,2023-01-18,In Class,Wireless Information Networking,3,Lost and Found,In Progress,jason.butler@loyalistcollege.com
+211,Jessica Reddy,500995247,2022-07-12,Applied Industry Project,Quality Engineering Management,1,Other,Resolved,jessica.reddy@loyalistcollege.com
+212,Damon Carter,500751246,2022-03-16,Applied Industry Project,Computer Software and Database Development,2,Inquiry,In Progress,damon.carter@loyalistcollege.com
+213,Travis Hogan,500238773,2022-08-21,On Campus,Computer Systems Technician,4,Lost and Found,Resolved,travis.hogan@loyalistcollege.com
+214,Justin Watts,500850381,2023-08-10,In Class,Supply Chain Management,1,Other,Not Relevant Complaint,justin.watts@loyalistcollege.com
+215,Jill Ross,500425370,2021-07-20,On Campus,Wireless Information Networking,3,Other,In Progress,jill.ross@loyalistcollege.com
+216,Katrina Kumar,500506865,2021-07-05,Applied Industry Project,Wireless Information Networking,4,Inquiry,Resolved,katrina.kumar@loyalistcollege.com
+217,David Chavez,500884844,2022-09-16,In Class,Hospitality Management,4,Lost and Found,In Progress,david.chavez@loyalistcollege.com
+218,Brenda Ford,500534548,2022-07-06,On Co-op/Placement,Supply Chain Management,4,Inquiry,Resolved,brenda.ford@loyalistcollege.com
+219,Karen Harris,500969167,2023-02-17,On Campus,Cloud Computing,1,Other,In Progress,karen.harris@loyalistcollege.com
+220,Michael Montgomery,500782447,2023-01-02,On Campus,Computer Systems Technician,1,Suggestion/ Feedback,In Progress,michael.montgomery@loyalistcollege.com
+221,Alan Kaur,500184644,2021-12-22,In Class,Wireless Information Networking,4,Other,Resolved,alan.kaur@loyalistcollege.com
+222,Randy Fuller,500101598,2022-08-04,On Campus,Computer Systems Technician,3,Lost and Found,In Progress,randy.fuller@loyalistcollege.com
+223,Brooke Mccarthy,500723459,2022-07-12,Moodle / E- Learning,Business,1,Lost and Found,Not Resolved,brooke.mccarthy@loyalistcollege.com
+224,Michael Wolf,500301651,2022-11-02,Moodle / E- Learning,Hospitality Management,1,Other,Not Relevant Complaint,michael.wolf@loyalistcollege.com
+225,Philip Ramirez,500832517,2022-03-07,Moodle / E- Learning,Cloud Computing,1,Lost and Found,Not Relevant Complaint,philip.ramirez@loyalistcollege.com
+226,Tracey Sharma,500450645,2022-07-13,In Class,Supply Chain Management,3,Inquiry,In Progress,tracey.sharma@loyalistcollege.com
+227,Stephen Williams,500267855,2022-09-15,Moodle / E- Learning,Computer Software and Database Development,3,Other,In Progress,stephen.williams@loyalistcollege.com
+228,Joseph Perkins,500351045,2022-03-16,In Class,Computer Systems Technician,1,Suggestion/ Feedback,Resolved,joseph.perkins@loyalistcollege.com
+229,Brian King,500333935,2021-06-13,Applied Industry Project,Computer Software and Database Development,4,Suggestion/ Feedback,In Progress,brian.king@loyalistcollege.com
+230,Paul Stout,500768361,2023-01-16,Applied Industry Project,Supply Chain Management,1,Lost and Found,Not Resolved,paul.stout@loyalistcollege.com
+231,Caitlin Kumar,500569903,2022-03-29,Moodle / E- Learning,Global Project Management,2,Lost and Found,Not Relevant Complaint,caitlin.kumar@loyalistcollege.com
+232,Ricky Torres,500497041,2021-07-07,In Class,Cloud Computing,3,Inquiry,In Progress,ricky.torres@loyalistcollege.com
+233,Joseph Wright,500844855,2022-11-24,On Co-op/Placement,Quality Engineering Management,1,Lost and Found,Resolved,joseph.wright@loyalistcollege.com
+234,Carla Perry,500806504,2021-08-28,On Campus,Business Sales and Marketing,1,Suggestion/ Feedback,Not Relevant Complaint,carla.perry@loyalistcollege.com
+235,Joseph Berry,500695749,2022-06-19,On Campus,Business Sales and Marketing,4,Inquiry,Resolved,joseph.berry@loyalistcollege.com
+236,Courtney Gupta,500534536,2022-01-14,On Campus,Cyber Security,3,Other,In Progress,courtney.gupta@loyalistcollege.com
+237,Jennifer Walters,500133077,2021-10-18,Off Campus,Artificial Intelligence and Data Science,2,Suggestion/ Feedback,Resolved,jennifer.walters@loyalistcollege.com
+238,Richard French,500521807,2022-06-10,In Class,Hospitality Management,2,Lost and Found,Not Relevant Complaint,richard.french@loyalistcollege.com
+239,Jacob Fuller,500835921,2023-02-15,Off Campus,Hospitality Management,2,Other,Resolved,jacob.fuller@loyalistcollege.com
+240,Michael James,500695037,2021-12-22,Applied Industry Project,Computer Software and Database Development,2,Suggestion/ Feedback,Not Resolved,michael.james@loyalistcollege.com
+241,Brittany Gupta,500538542,2021-06-20,Moodle / E- Learning,Computer Software and Database Development,2,Inquiry,Not Resolved,brittany.gupta@loyalistcollege.com
+242,Michael Gomez,500909695,2022-08-20,Applied Industry Project,Quality Engineering Management,2,Other,In Progress,michael.gomez@loyalistcollege.com
+243,Jason Woods,500794362,2022-08-27,On Campus,Supply Chain Management,3,Other,In Progress,jason.woods@loyalistcollege.com
+244,Emily Pearson,500843446,2022-12-24,In Class,Artificial Intelligence and Data Science,1,Suggestion/ Feedback,In Progress,emily.pearson@loyalistcollege.com
+245,Eric Mcgee,500149052,2023-03-09,On Campus,Cyber Security,4,Inquiry,Not Relevant Complaint,eric.mcgee@loyalistcollege.com
+246,Brian Singh,500273722,2022-12-19,Applied Industry Project,Business Sales and Marketing,4,Suggestion/ Feedback,Not Resolved,brian.singh@loyalistcollege.com
+247,Allison Ruiz,500566985,2023-05-30,Applied Industry Project,Global Business Management,1,Lost and Found,Resolved,allison.ruiz@loyalistcollege.com
+248,Alexandra Rose,500166989,2023-08-19,Off Campus,Business Sales and Marketing,2,Lost and Found,Resolved,alexandra.rose@loyalistcollege.com
+249,Sean Parks,500371819,2021-12-09,Applied Industry Project,Business Sales and Marketing,2,Inquiry,Not Relevant Complaint,sean.parks@loyalistcollege.com
+250,Maureen Smith,500835593,2022-09-13,Applied Industry Project,Hospitality Management,3,Suggestion/ Feedback,Not Relevant Complaint,maureen.smith@loyalistcollege.com
+251,Blake Kumar,500265346,2023-02-20,On Co-op/Placement,Business,3,Other,Resolved,blake.kumar@loyalistcollege.com
+252,Zoe Marks,500568047,2022-04-29,Moodle / E- Learning,Business Sales and Marketing,2,Lost and Found,Not Relevant Complaint,zoe.marks@loyalistcollege.com
+253,Monica Perez,500653200,2023-01-27,Applied Industry Project,Cyber Security,2,Other,Not Resolved,monica.perez@loyalistcollege.com
+254,Donna Garcia,500610935,2021-12-28,On Campus,Computer Systems Technician,3,Other,Not Resolved,donna.garcia@loyalistcollege.com
+255,Gary Jackson,500688675,2022-05-04,On Co-op/Placement,Cyber Security,2,Suggestion/ Feedback,Not Resolved,gary.jackson@loyalistcollege.com
+256,Robert Reddy,500733316,2023-03-16,In Class,Cyber Security,2,Other,Resolved,robert.reddy@loyalistcollege.com
+257,Jessica West,500892183,2021-01-03,In Class,Global Project Management,4,Lost and Found,In Progress,jessica.west@loyalistcollege.com
+258,Kelly Anderson,500100072,2021-05-23,On Co-op/Placement,Quality Engineering Management,4,Lost and Found,Resolved,kelly.anderson@loyalistcollege.com
+259,Jill Clarke,500140800,2023-01-03,On Co-op/Placement,Cyber Security,3,Other,Not Relevant Complaint,jill.clarke@loyalistcollege.com
+260,Robert Price,500618607,2022-05-08,Applied Industry Project,Wireless Information Networking,2,Inquiry,Resolved,robert.price@loyalistcollege.com
+261,Jeffrey Patel,500441776,2022-09-05,On Campus,Computer Systems Technician,4,Inquiry,Not Relevant Complaint,jeffrey.patel@loyalistcollege.com
+262,Todd Willis,500427216,2021-12-20,Off Campus,Computer Systems Technician,1,Lost and Found,Not Relevant Complaint,todd.willis@loyalistcollege.com
+263,James Young,500978430,2022-11-02,On Campus,Wireless Information Networking,2,Lost and Found,Resolved,james.young@loyalistcollege.com
+264,Cody Brown,500589571,2021-03-17,On Campus,Business Sales and Marketing,1,Other,In Progress,cody.brown@loyalistcollege.com
+265,Carrie Bishop,500152278,2023-06-13,On Campus,Computer Systems Technician,4,Inquiry,Not Resolved,carrie.bishop@loyalistcollege.com
+266,Cheyenne Singh,500948346,2021-03-04,Applied Industry Project,Cyber Security,2,Lost and Found,Not Resolved,cheyenne.singh@loyalistcollege.com
+267,Kayla Mitchell,500962684,2022-09-24,On Co-op/Placement,Global Business Management,2,Suggestion/ Feedback,Not Resolved,kayla.mitchell@loyalistcollege.com
+268,Heather Ellis,500951878,2021-05-26,On Campus,Computer Software and Database Development,1,Suggestion/ Feedback,Not Resolved,heather.ellis@loyalistcollege.com
+269,Kelli Huber,500535303,2022-02-14,On Campus,Quality Engineering Management,1,Other,Resolved,kelli.huber@loyalistcollege.com
+270,Tara Villa,500297133,2021-11-08,On Campus,Quality Engineering Management,3,Lost and Found,Not Resolved,tara.villa@loyalistcollege.com
+271,Bianca Kumar,500675209,2022-05-23,Applied Industry Project,Business Sales and Marketing,1,Suggestion/ Feedback,In Progress,bianca.kumar@loyalistcollege.com
+272,Michael Lewis III,500763841,2021-10-05,Applied Industry Project,Supply Chain Management,1,Suggestion/ Feedback,Not Resolved,michael.lewis.iii@loyalistcollege.com
+273,Christopher Smith,500187521,2021-06-25,Off Campus,Global Project Management,1,Suggestion/ Feedback,Not Resolved,christopher.smith@loyalistcollege.com
+274,Brenda Buchanan,500978128,2021-10-08,Moodle / E- Learning,Business,1,Inquiry,Not Resolved,brenda.buchanan@loyalistcollege.com
+275,Tracy Sanders,500860798,2022-07-20,In Class,Quality Engineering Management,2,Lost and Found,Resolved,tracy.sanders@loyalistcollege.com
+276,Sandra Patel,500236861,2021-02-13,On Campus,Artificial Intelligence and Data Science,2,Suggestion/ Feedback,Not Resolved,sandra.patel@loyalistcollege.com
+277,Gerald Garcia,500115444,2021-12-30,On Co-op/Placement,Hospitality Management,4,Lost and Found,Not Relevant Complaint,gerald.garcia@loyalistcollege.com
+278,Rebecca Morris,500521335,2021-03-09,In Class,Quality Engineering Management,1,Inquiry,In Progress,rebecca.morris@loyalistcollege.com
+279,Frederick Johnson,500811474,2021-01-13,Off Campus,Computer Software and Database Development,4,Other,In Progress,frederick.johnson@loyalistcollege.com
+280,Jacob Clark,500537764,2022-08-18,In Class,Global Project Management,4,Lost and Found,Resolved,jacob.clark@loyalistcollege.com
+281,Alice Patel,500431535,2023-04-11,Moodle / E- Learning,Global Project Management,3,Suggestion/ Feedback,Resolved,alice.patel@loyalistcollege.com
+282,Dakota Chambers,500103557,2021-01-08,In Class,Cloud Computing,2,Suggestion/ Feedback,In Progress,dakota.chambers@loyalistcollege.com
+283,Emily Heath,500323896,2021-07-21,On Campus,Artificial Intelligence and Data Science,2,Inquiry,In Progress,emily.heath@loyalistcollege.com
+284,Gregory Marquez,500114985,2021-06-30,Off Campus,Computer Systems Technician,3,Suggestion/ Feedback,In Progress,gregory.marquez@loyalistcollege.com
+285,Timothy Jones,500852168,2023-07-29,Applied Industry Project,Hospitality Management,2,Lost and Found,In Progress,timothy.jones@loyalistcollege.com
+286,Steven Kaur,500891416,2023-07-31,On Co-op/Placement,Supply Chain Management,4,Other,In Progress,steven.kaur@loyalistcollege.com
+287,Amber Lamb,500102472,2021-11-06,Off Campus,Business Sales and Marketing,1,Lost and Found,In Progress,amber.lamb@loyalistcollege.com
+288,Julia Wilson,500962696,2021-05-07,Moodle / E- Learning,Supply Chain Management,2,Suggestion/ Feedback,Resolved,julia.wilson@loyalistcollege.com
+289,Brett Cannon,500808587,2022-12-26,On Campus,Global Project Management,4,Lost and Found,Not Relevant Complaint,brett.cannon@loyalistcollege.com
+290,Thomas Alexander,500654010,2021-11-04,On Co-op/Placement,Cyber Security,3,Lost and Found,Resolved,thomas.alexander@loyalistcollege.com
+291,Chris Singh,500741793,2021-01-03,Off Campus,Wireless Information Networking,1,Inquiry,In Progress,chris.singh@loyalistcollege.com
+292,Paul Calderon,500202534,2023-03-20,Applied Industry Project,Global Project Management,4,Other,Resolved,paul.calderon@loyalistcollege.com
+293,Christopher Burns,500299711,2023-08-24,Moodle / E- Learning,Hospitality Management,4,Lost and Found,In Progress,christopher.burns@loyalistcollege.com
+294,Seth Michael,500224679,2022-10-07,Applied Industry Project,Computer Software and Database Development,2,Inquiry,Not Resolved,seth.michael@loyalistcollege.com
+295,Jeffrey Hawkins,500737911,2021-04-14,In Class,Wireless Information Networking,4,Suggestion/ Feedback,In Progress,jeffrey.hawkins@loyalistcollege.com
+296,Justin Gupta,500780804,2023-04-15,On Campus,Business,4,Lost and Found,Not Relevant Complaint,justin.gupta@loyalistcollege.com
+297,Christina Phillips,500308159,2021-10-03,Off Campus,Cloud Computing,2,Inquiry,In Progress,christina.phillips@loyalistcollege.com
+298,Larry Herrera,500417106,2021-12-30,Moodle / E- Learning,Business Sales and Marketing,4,Inquiry,In Progress,larry.herrera@loyalistcollege.com
+299,David Wilson,500393583,2021-12-19,Applied Industry Project,Quality Engineering Management,2,Inquiry,Not Resolved,david.wilson@loyalistcollege.com
+300,Annette Quinn,500821986,2022-10-08,Moodle / E- Learning,Global Business Management,4,Other,Resolved,annette.quinn@loyalistcollege.com
+301,John Kaur,500291072,2022-08-17,On Co-op/Placement,Wireless Information Networking,4,Inquiry,Not Relevant Complaint,john.kaur@loyalistcollege.com
+302,Noah Keller,500205047,2023-01-08,In Class,Computer Systems Technician,1,Other,In Progress,noah.keller@loyalistcollege.com
+303,Kaylee Trevino,500598708,2021-01-01,Off Campus,Computer Software and Database Development,3,Suggestion/ Feedback,Resolved,kaylee.trevino@loyalistcollege.com
+304,Matthew Wilson,500995419,2022-11-09,Off Campus,Cyber Security,3,Inquiry,Not Resolved,matthew.wilson@loyalistcollege.com
+305,Heather Leonard,500515966,2021-11-23,In Class,Cloud Computing,3,Suggestion/ Feedback,Resolved,heather.leonard@loyalistcollege.com
+306,Jade Singh,500758127,2022-08-16,Off Campus,Global Business Management,1,Suggestion/ Feedback,In Progress,jade.singh@loyalistcollege.com
+307,Connie Decker,500185296,2021-03-05,Moodle / E- Learning,Artificial Intelligence and Data Science,4,Inquiry,Not Resolved,connie.decker@loyalistcollege.com
+308,Joseph Leonard,500122906,2023-08-15,Applied Industry Project,Computer Systems Technician,2,Inquiry,In Progress,joseph.leonard@loyalistcollege.com
+309,Mark Mitchell,500388058,2022-02-23,Off Campus,Artificial Intelligence and Data Science,3,Other,In Progress,mark.mitchell@loyalistcollege.com
+310,Robert Tran,500574982,2021-02-14,On Campus,Computer Software and Database Development,1,Suggestion/ Feedback,Not Resolved,robert.tran@loyalistcollege.com
+311,Mark Singh,500938676,2023-06-25,Applied Industry Project,Wireless Information Networking,3,Inquiry,Not Relevant Complaint,mark.singh@loyalistcollege.com
+312,Allison Anderson,500930830,2022-06-24,Applied Industry Project,Wireless Information Networking,4,Suggestion/ Feedback,In Progress,allison.anderson@loyalistcollege.com
+313,William Dixon,500221403,2022-07-25,Off Campus,Computer Systems Technician,1,Lost and Found,In Progress,william.dixon@loyalistcollege.com
+314,Phillip Harrington,500368947,2022-06-09,In Class,Computer Software and Database Development,1,Lost and Found,Not Relevant Complaint,phillip.harrington@loyalistcollege.com
+315,Laura Dominguez,500239901,2022-12-07,On Campus,Global Project Management,2,Suggestion/ Feedback,Not Resolved,laura.dominguez@loyalistcollege.com
+316,Jason Kaur,500785314,2021-07-28,In Class,Supply Chain Management,4,Suggestion/ Feedback,Resolved,jason.kaur@loyalistcollege.com
+317,Rose Wolf,500646167,2023-07-15,Applied Industry Project,Wireless Information Networking,1,Suggestion/ Feedback,In Progress,rose.wolf@loyalistcollege.com
+318,Kevin Fuller,500956973,2023-03-15,In Class,Supply Chain Management,4,Lost and Found,In Progress,kevin.fuller@loyalistcollege.com
+319,Ashley Flowers,500782395,2021-05-23,On Co-op/Placement,Supply Chain Management,4,Lost and Found,Not Relevant Complaint,ashley.flowers@loyalistcollege.com
+320,Heather Bryant,500776269,2022-01-27,On Co-op/Placement,Computer Systems Technician,4,Lost and Found,Resolved,heather.bryant@loyalistcollege.com
+321,Alexander Kaur,500463911,2021-06-10,Moodle / E- Learning,Cloud Computing,1,Suggestion/ Feedback,Not Relevant Complaint,alexander.kaur@loyalistcollege.com
+322,Matthew Guerrero,500220700,2021-06-10,On Campus,Computer Software and Database Development,4,Lost and Found,In Progress,matthew.guerrero@loyalistcollege.com
+323,Troy Castillo MD,500261942,2022-02-28,Moodle / E- Learning,Supply Chain Management,4,Inquiry,Resolved,troy.castillo.md@loyalistcollege.com
+324,Deanna Munoz,500391933,2021-02-07,Off Campus,Business Sales and Marketing,2,Suggestion/ Feedback,In Progress,deanna.munoz@loyalistcollege.com
+325,Samantha Floyd,500992589,2021-08-09,Off Campus,Cloud Computing,2,Inquiry,Not Resolved,samantha.floyd@loyalistcollege.com
+326,Patrick Patel,500119476,2023-08-23,On Campus,Artificial Intelligence and Data Science,3,Suggestion/ Feedback,Resolved,patrick.patel@loyalistcollege.com
+327,Andrew Barber,500144352,2021-07-31,Off Campus,Computer Software and Database Development,4,Other,Not Relevant Complaint,andrew.barber@loyalistcollege.com
+328,Grace Alexander,500142638,2022-08-12,Off Campus,Quality Engineering Management,4,Lost and Found,Resolved,grace.alexander@loyalistcollege.com
+329,Mary Green,500315729,2021-11-18,On Campus,Hospitality Management,2,Other,Resolved,mary.green@loyalistcollege.com
+330,Elizabeth Kelly,500814076,2023-06-10,On Campus,Artificial Intelligence and Data Science,3,Other,Resolved,elizabeth.kelly@loyalistcollege.com
+331,Amber Kumar,500372283,2022-05-12,Off Campus,Wireless Information Networking,1,Lost and Found,In Progress,amber.kumar@loyalistcollege.com
+332,Brittany Johnson,500685478,2021-11-10,Applied Industry Project,Supply Chain Management,3,Lost and Found,Resolved,brittany.johnson@loyalistcollege.com
+333,Allison Williams,500430000,2022-10-17,On Co-op/Placement,Business Sales and Marketing,3,Other,Not Relevant Complaint,allison.williams@loyalistcollege.com
+334,Matthew Jones,500484716,2023-03-01,On Campus,Computer Software and Database Development,2,Suggestion/ Feedback,Not Resolved,matthew.jones@loyalistcollege.com
+335,William Henderson,500695033,2023-02-17,Applied Industry Project,Artificial Intelligence and Data Science,3,Inquiry,In Progress,william.henderson@loyalistcollege.com
+336,Patricia Gupta,500990700,2021-07-06,Off Campus,Global Project Management,4,Suggestion/ Feedback,Not Relevant Complaint,patricia.gupta@loyalistcollege.com
+337,Jeffrey Howard,500144044,2023-05-20,Moodle / E- Learning,Supply Chain Management,1,Inquiry,Not Resolved,jeffrey.howard@loyalistcollege.com
+338,Gary Hatfield,500987472,2021-06-13,Moodle / E- Learning,Artificial Intelligence and Data Science,2,Other,Not Resolved,gary.hatfield@loyalistcollege.com
+339,Janet Ortiz,500885524,2023-01-08,In Class,Artificial Intelligence and Data Science,3,Suggestion/ Feedback,In Progress,janet.ortiz@loyalistcollege.com
+340,Joseph Fitzgerald,500835392,2021-07-13,Off Campus,Computer Systems Technician,2,Lost and Found,Not Relevant Complaint,joseph.fitzgerald@loyalistcollege.com
+341,Gloria Singh,500737111,2023-03-02,On Campus,Artificial Intelligence and Data Science,3,Lost and Found,In Progress,gloria.singh@loyalistcollege.com
+342,Andrew Dorsey,500787196,2022-11-27,Applied Industry Project,Artificial Intelligence and Data Science,3,Lost and Found,Not Relevant Complaint,andrew.dorsey@loyalistcollege.com
+343,James Smith,500618505,2022-12-31,In Class,Computer Systems Technician,4,Suggestion/ Feedback,Resolved,james.smith@loyalistcollege.com
+344,Sean Palmer,500846961,2021-10-05,Moodle / E- Learning,Supply Chain Management,1,Lost and Found,In Progress,sean.palmer@loyalistcollege.com
+345,Brittany Rivera,500775433,2022-12-08,Off Campus,Computer Software and Database Development,3,Suggestion/ Feedback,In Progress,brittany.rivera@loyalistcollege.com
+346,Mary Singh,500580944,2023-05-01,On Co-op/Placement,Business,4,Suggestion/ Feedback,Not Resolved,mary.singh@loyalistcollege.com
+347,Danielle Johnson,500771236,2022-06-12,Off Campus,Artificial Intelligence and Data Science,1,Suggestion/ Feedback,Resolved,danielle.johnson@loyalistcollege.com
+348,Caroline French,500556592,2021-07-20,In Class,Computer Software and Database Development,4,Lost and Found,Not Relevant Complaint,caroline.french@loyalistcollege.com
+349,Carol Miller,500490541,2022-10-09,On Campus,Supply Chain Management,3,Inquiry,Resolved,carol.miller@loyalistcollege.com
+350,Linda Oliver,500664059,2022-01-31,Applied Industry Project,Global Business Management,4,Inquiry,Not Relevant Complaint,linda.oliver@loyalistcollege.com
+351,Stephen Reddy,500286948,2022-08-10,In Class,Business Sales and Marketing,2,Suggestion/ Feedback,Not Resolved,stephen.reddy@loyalistcollege.com
+352,Lance King,500317940,2021-05-03,Moodle / E- Learning,Computer Systems Technician,3,Lost and Found,Resolved,lance.king@loyalistcollege.com
+353,Morgan Johnson,500493823,2023-05-28,Applied Industry Project,Global Project Management,2,Other,Not Relevant Complaint,morgan.johnson@loyalistcollege.com
+354,Amanda Davis,500715645,2023-02-25,On Co-op/Placement,Global Business Management,2,Other,Not Relevant Complaint,amanda.davis@loyalistcollege.com
+355,Chris Young,500405172,2022-06-06,On Co-op/Placement,Business Sales and Marketing,1,Suggestion/ Feedback,In Progress,chris.young@loyalistcollege.com
+356,Michael Sharma,500109329,2021-12-29,On Campus,Computer Software and Database Development,3,Inquiry,In Progress,michael.sharma@loyalistcollege.com
+357,Jennifer Nelson,500245182,2022-12-06,Off Campus,Cloud Computing,2,Suggestion/ Feedback,Not Resolved,jennifer.nelson@loyalistcollege.com
+358,James Collins DVM,500258359,2022-01-21,Moodle / E- Learning,Business Sales and Marketing,1,Suggestion/ Feedback,Resolved,james.collins.dvm@loyalistcollege.com
+359,Vanessa Mejia,500384555,2022-06-30,Off Campus,Supply Chain Management,4,Other,Not Relevant Complaint,vanessa.mejia@loyalistcollege.com
+360,Deborah Mcdaniel,500449604,2023-01-17,In Class,Computer Software and Database Development,4,Other,Not Relevant Complaint,deborah.mcdaniel@loyalistcollege.com
+361,Stephen Kaur,500453906,2022-09-30,Moodle / E- Learning,Wireless Information Networking,4,Lost and Found,In Progress,stephen.kaur@loyalistcollege.com
+362,Jennifer Crawford,500927979,2021-02-07,Off Campus,Cyber Security,1,Other,Not Relevant Complaint,jennifer.crawford@loyalistcollege.com
+363,Patrick Johnson,500485038,2022-11-26,On Campus,Wireless Information Networking,1,Suggestion/ Feedback,In Progress,patrick.johnson@loyalistcollege.com
+364,Lauren Parsons,500853401,2021-01-10,On Co-op/Placement,Global Business Management,4,Inquiry,Not Relevant Complaint,lauren.parsons@loyalistcollege.com
+365,Michael Clark,500198259,2023-05-09,Off Campus,Global Business Management,2,Lost and Found,Not Resolved,michael.clark@loyalistcollege.com
+366,Allison Reddy,500454687,2022-09-21,Applied Industry Project,Artificial Intelligence and Data Science,2,Inquiry,Not Resolved,allison.reddy@loyalistcollege.com
+367,William Bonilla,500917277,2022-11-24,Moodle / E- Learning,Global Business Management,2,Other,Not Relevant Complaint,william.bonilla@loyalistcollege.com
+368,Keith Rivera,500750681,2021-12-14,In Class,Cloud Computing,2,Other,Not Resolved,keith.rivera@loyalistcollege.com
+369,Tammy Willis,500137397,2022-10-30,In Class,Hospitality Management,2,Lost and Found,Not Relevant Complaint,tammy.willis@loyalistcollege.com
+370,Melanie Gomez,500143204,2022-01-10,Applied Industry Project,Hospitality Management,2,Inquiry,In Progress,melanie.gomez@loyalistcollege.com
+371,Sabrina Kaur,500382719,2022-01-29,Moodle / E- Learning,Cyber Security,1,Lost and Found,Not Resolved,sabrina.kaur@loyalistcollege.com
+372,Erin Burgess,500271820,2023-01-12,In Class,Wireless Information Networking,2,Suggestion/ Feedback,In Progress,erin.burgess@loyalistcollege.com
+373,Robert Cunningham,500256674,2023-01-09,In Class,Supply Chain Management,4,Lost and Found,In Progress,robert.cunningham@loyalistcollege.com
+374,Heidi Garrett,500711792,2021-08-08,Applied Industry Project,Wireless Information Networking,3,Inquiry,In Progress,heidi.garrett@loyalistcollege.com
+375,Richard Burke,500403595,2021-12-21,Off Campus,Global Project Management,3,Inquiry,Not Resolved,richard.burke@loyalistcollege.com
+376,Vanessa Singh,500478438,2022-11-16,On Co-op/Placement,Cyber Security,3,Other,Not Relevant Complaint,vanessa.singh@loyalistcollege.com
+377,Charles Williams,500513969,2022-03-17,On Co-op/Placement,Artificial Intelligence and Data Science,1,Lost and Found,Not Relevant Complaint,charles.williams@loyalistcollege.com
+378,Timothy Fry,500675127,2022-07-14,Moodle / E- Learning,Quality Engineering Management,4,Suggestion/ Feedback,Not Resolved,timothy.fry@loyalistcollege.com
+379,Dr. Robert Osborne,500235938,2023-01-26,Off Campus,Business,3,Other,In Progress,dr..robert.osborne@loyalistcollege.com
+380,Chelsea Dunn,500407659,2023-07-21,Off Campus,Global Business Management,2,Lost and Found,In Progress,chelsea.dunn@loyalistcollege.com
+381,Rodney Patel,500220477,2021-08-20,In Class,Global Business Management,3,Inquiry,In Progress,rodney.patel@loyalistcollege.com
+382,Carrie Jackson,500601287,2023-03-23,Moodle / E- Learning,Business Sales and Marketing,3,Other,Not Relevant Complaint,carrie.jackson@loyalistcollege.com
+383,Brooke Rodriguez,500866007,2021-05-17,Applied Industry Project,Artificial Intelligence and Data Science,2,Suggestion/ Feedback,Not Resolved,brooke.rodriguez@loyalistcollege.com
+384,Rebecca Jacobs,500351350,2021-10-19,Applied Industry Project,Hospitality Management,4,Suggestion/ Feedback,In Progress,rebecca.jacobs@loyalistcollege.com
+385,Deborah Mitchell,500150600,2022-04-11,Applied Industry Project,Business Sales and Marketing,3,Other,Not Resolved,deborah.mitchell@loyalistcollege.com
+386,Roy Sharma,500422835,2023-03-16,Moodle / E- Learning,Quality Engineering Management,2,Other,In Progress,roy.sharma@loyalistcollege.com
+387,Michelle Shah DDS,500288310,2021-07-10,On Campus,Supply Chain Management,4,Other,In Progress,michelle.shah.dds@loyalistcollege.com
+388,Wanda Lee,500998667,2021-04-02,On Co-op/Placement,Hospitality Management,3,Lost and Found,Not Relevant Complaint,wanda.lee@loyalistcollege.com
+389,Rebecca Kirk,500648457,2021-08-29,In Class,Wireless Information Networking,4,Inquiry,Not Relevant Complaint,rebecca.kirk@loyalistcollege.com
+390,Brittney Guerrero,500864056,2022-06-17,In Class,Wireless Information Networking,4,Suggestion/ Feedback,Resolved,brittney.guerrero@loyalistcollege.com
+391,Sandra Kumar,500174305,2021-02-26,In Class,Business Sales and Marketing,3,Inquiry,Not Relevant Complaint,sandra.kumar@loyalistcollege.com
+392,Heather Herring,500417373,2022-06-04,Applied Industry Project,Business,4,Inquiry,Not Resolved,heather.herring@loyalistcollege.com
+393,Jennifer Mendez,500522753,2023-08-24,Applied Industry Project,Computer Software and Database Development,4,Inquiry,Resolved,jennifer.mendez@loyalistcollege.com
+394,Crystal Smith,500976147,2021-09-07,On Co-op/Placement,Computer Systems Technician,1,Inquiry,Resolved,crystal.smith@loyalistcollege.com
+395,Teresa Frazier,500444478,2022-12-29,Applied Industry Project,Business Sales and Marketing,2,Suggestion/ Feedback,In Progress,teresa.frazier@loyalistcollege.com
+396,Crystal Sharma,500413760,2022-08-30,In Class,Computer Systems Technician,2,Inquiry,Not Resolved,crystal.sharma@loyalistcollege.com
+397,Kathleen Simon,500534867,2021-10-19,On Co-op/Placement,Artificial Intelligence and Data Science,1,Inquiry,In Progress,kathleen.simon@loyalistcollege.com
+398,Steven Hill,500213929,2022-10-02,On Campus,Cyber Security,1,Suggestion/ Feedback,Not Relevant Complaint,steven.hill@loyalistcollege.com
+399,Tammy Miller,500204228,2023-02-10,On Campus,Business Sales and Marketing,2,Lost and Found,In Progress,tammy.miller@loyalistcollege.com
+400,Patrick Cole,500688072,2021-10-26,In Class,Wireless Information Networking,1,Inquiry,In Progress,patrick.cole@loyalistcollege.com
+401,William Sharma,500604545,2021-09-18,Off Campus,Cyber Security,3,Inquiry,Not Resolved,william.sharma@loyalistcollege.com
+402,Michele Rubio,500597029,2022-08-31,Applied Industry Project,Supply Chain Management,2,Other,In Progress,michele.rubio@loyalistcollege.com
+403,Thomas Reilly,500453454,2021-03-15,Applied Industry Project,Hospitality Management,4,Inquiry,In Progress,thomas.reilly@loyalistcollege.com
+404,Teresa King,500981693,2022-06-11,On Co-op/Placement,Business Sales and Marketing,1,Inquiry,Not Relevant Complaint,teresa.king@loyalistcollege.com
+405,Patricia Lynch,500936631,2023-03-21,On Campus,Wireless Information Networking,1,Inquiry,Not Relevant Complaint,patricia.lynch@loyalistcollege.com
+406,Christopher Singh,500951788,2021-10-19,On Co-op/Placement,Business,1,Inquiry,Not Resolved,christopher.singh@loyalistcollege.com
+407,Adam King,500460344,2022-05-25,On Co-op/Placement,Global Business Management,1,Inquiry,Resolved,adam.king@loyalistcollege.com
+408,Jasmine Rowe,500230364,2021-10-12,Moodle / E- Learning,Quality Engineering Management,3,Suggestion/ Feedback,Resolved,jasmine.rowe@loyalistcollege.com
+409,Jean Beard,500602358,2023-03-18,On Campus,Business,4,Lost and Found,Not Relevant Complaint,jean.beard@loyalistcollege.com
+410,John Gallegos,500221643,2023-04-24,On Co-op/Placement,Quality Engineering Management,3,Other,Resolved,john.gallegos@loyalistcollege.com
+411,David Sharma,500833578,2023-07-13,In Class,Supply Chain Management,1,Inquiry,Resolved,david.sharma@loyalistcollege.com
+412,Erin Johnson,500621912,2023-06-25,Off Campus,Global Project Management,4,Lost and Found,Not Resolved,erin.johnson@loyalistcollege.com
+413,Joseph Williams,500547254,2022-11-06,Moodle / E- Learning,Wireless Information Networking,3,Other,Not Resolved,joseph.williams@loyalistcollege.com
+414,Hannah Smith,500139661,2021-08-25,On Co-op/Placement,Business Sales and Marketing,3,Inquiry,Not Relevant Complaint,hannah.smith@loyalistcollege.com
+415,Brian Fernandez,500416568,2023-08-18,Off Campus,Quality Engineering Management,4,Other,Resolved,brian.fernandez@loyalistcollege.com
+416,Bradley Singh,500451358,2023-02-06,Moodle / E- Learning,Quality Engineering Management,2,Other,Not Resolved,bradley.singh@loyalistcollege.com
+417,Sarah Landry,500870442,2023-06-06,Applied Industry Project,Artificial Intelligence and Data Science,2,Inquiry,In Progress,sarah.landry@loyalistcollege.com
+418,Taylor Joyce,500820487,2021-11-28,Applied Industry Project,Cloud Computing,1,Other,In Progress,taylor.joyce@loyalistcollege.com
+419,Denise Lambert,500263225,2023-07-19,Off Campus,Computer Software and Database Development,2,Other,Not Relevant Complaint,denise.lambert@loyalistcollege.com
+420,Jennifer Torres,500274646,2022-11-17,Applied Industry Project,Cyber Security,1,Lost and Found,In Progress,jennifer.torres@loyalistcollege.com
+421,Brian Kumar,500757186,2021-02-21,On Co-op/Placement,Wireless Information Networking,2,Inquiry,Not Resolved,brian.kumar@loyalistcollege.com
+422,Cesar Castillo,500691907,2022-01-13,Moodle / E- Learning,Wireless Information Networking,4,Lost and Found,Not Relevant Complaint,cesar.castillo@loyalistcollege.com
+423,Pamela Williams,500493815,2023-01-28,On Campus,Global Business Management,2,Lost and Found,Resolved,pamela.williams@loyalistcollege.com
+424,Amanda Peters,500945276,2023-07-28,On Campus,Artificial Intelligence and Data Science,4,Lost and Found,In Progress,amanda.peters@loyalistcollege.com
+425,Lynn Herring,500769912,2022-05-09,In Class,Supply Chain Management,4,Lost and Found,Resolved,lynn.herring@loyalistcollege.com
+426,Melvin Gupta,500191144,2023-05-14,Moodle / E- Learning,Artificial Intelligence and Data Science,3,Inquiry,In Progress,melvin.gupta@loyalistcollege.com
+427,Angela Castro,500169032,2021-11-02,In Class,Global Project Management,1,Other,Not Resolved,angela.castro@loyalistcollege.com
+428,Christina Green,500947010,2021-01-01,Off Campus,Business,2,Other,Resolved,christina.green@loyalistcollege.com
+429,Dawn Green,500188782,2021-03-09,Off Campus,Computer Software and Database Development,4,Suggestion/ Feedback,Resolved,dawn.green@loyalistcollege.com
+430,Yvette Moore,500307660,2021-04-07,On Co-op/Placement,Cloud Computing,2,Other,Not Resolved,yvette.moore@loyalistcollege.com
+431,Rachel Patel,500886295,2021-07-28,Off Campus,Supply Chain Management,4,Suggestion/ Feedback,Resolved,rachel.patel@loyalistcollege.com
+432,Amanda Richards,500331796,2022-01-13,On Campus,Business Sales and Marketing,1,Other,In Progress,amanda.richards@loyalistcollege.com
+433,Amanda Todd,500164126,2022-11-20,On Co-op/Placement,Global Project Management,4,Suggestion/ Feedback,In Progress,amanda.todd@loyalistcollege.com
+434,Andrea Wong,500503504,2023-08-06,Moodle / E- Learning,Computer Systems Technician,1,Lost and Found,Resolved,andrea.wong@loyalistcollege.com
+435,David Ellis,500108232,2021-12-14,Applied Industry Project,Hospitality Management,4,Inquiry,Not Relevant Complaint,david.ellis@loyalistcollege.com
+436,Erik Patel,500202840,2021-06-19,Applied Industry Project,Computer Software and Database Development,3,Inquiry,Not Relevant Complaint,erik.patel@loyalistcollege.com
+437,Matthew Alvarez,500512937,2023-03-13,Moodle / E- Learning,Business Sales and Marketing,2,Inquiry,Not Relevant Complaint,matthew.alvarez@loyalistcollege.com
+438,Kimberly Hoover,500683505,2022-10-24,Off Campus,Wireless Information Networking,4,Lost and Found,Not Resolved,kimberly.hoover@loyalistcollege.com
+439,Robert Miller,500644214,2022-03-21,Moodle / E- Learning,Cyber Security,1,Lost and Found,In Progress,robert.miller@loyalistcollege.com
+440,Harold Hayes,500403899,2022-06-10,Off Campus,Global Business Management,4,Lost and Found,Not Relevant Complaint,harold.hayes@loyalistcollege.com
+441,Martha Reddy,500570332,2023-02-06,On Campus,Computer Software and Database Development,1,Other,Not Resolved,martha.reddy@loyalistcollege.com
+442,Victoria Hensley,500612353,2021-10-26,Off Campus,Cloud Computing,3,Inquiry,Resolved,victoria.hensley@loyalistcollege.com
+443,Evan Johnson,500926580,2021-09-11,Off Campus,Cyber Security,4,Other,In Progress,evan.johnson@loyalistcollege.com
+444,Alicia Blackwell,500713300,2022-08-02,Moodle / E- Learning,Global Project Management,4,Inquiry,In Progress,alicia.blackwell@loyalistcollege.com
+445,Jason Brown,500849109,2023-05-16,On Co-op/Placement,Global Business Management,4,Suggestion/ Feedback,Not Relevant Complaint,jason.brown@loyalistcollege.com
+446,Larry Kumar,500812300,2022-07-08,Applied Industry Project,Artificial Intelligence and Data Science,3,Lost and Found,Resolved,larry.kumar@loyalistcollege.com
+447,Anthony Saunders,500327806,2022-11-12,Off Campus,Cloud Computing,2,Inquiry,In Progress,anthony.saunders@loyalistcollege.com
+448,Heather Conley,500543587,2022-08-31,Moodle / E- Learning,Hospitality Management,2,Suggestion/ Feedback,In Progress,heather.conley@loyalistcollege.com
+449,Anthony Kelly,500187727,2022-11-13,In Class,Cloud Computing,3,Suggestion/ Feedback,Not Relevant Complaint,anthony.kelly@loyalistcollege.com
+450,Nicole Chambers,500486223,2022-05-09,Off Campus,Hospitality Management,2,Suggestion/ Feedback,Resolved,nicole.chambers@loyalistcollege.com
+451,Anna Gupta,500330831,2022-12-29,Applied Industry Project,Global Project Management,3,Suggestion/ Feedback,In Progress,anna.gupta@loyalistcollege.com
+452,Jennifer Johnson,500373590,2021-04-15,On Campus,Artificial Intelligence and Data Science,2,Suggestion/ Feedback,Not Resolved,jennifer.johnson@loyalistcollege.com
+453,Cheryl Hughes,500713656,2021-08-16,Moodle / E- Learning,Cyber Security,4,Inquiry,In Progress,cheryl.hughes@loyalistcollege.com
+454,Caleb Bell,500914848,2021-12-08,Off Campus,Hospitality Management,1,Lost and Found,In Progress,caleb.bell@loyalistcollege.com
+455,Luis Valdez,500274672,2021-06-26,In Class,Quality Engineering Management,1,Other,Not Relevant Complaint,luis.valdez@loyalistcollege.com
+456,Alexander Patel,500552168,2021-08-30,On Co-op/Placement,Hospitality Management,4,Inquiry,Not Relevant Complaint,alexander.patel@loyalistcollege.com
+457,Julian Savage,500301268,2022-09-05,On Campus,Cloud Computing,4,Other,In Progress,julian.savage@loyalistcollege.com
+458,Bobby Williams PhD,500475935,2022-12-22,In Class,Supply Chain Management,4,Suggestion/ Feedback,Not Resolved,bobby.williams.phd@loyalistcollege.com
+459,Shannon Baker,500220599,2023-04-20,Applied Industry Project,Artificial Intelligence and Data Science,1,Other,Resolved,shannon.baker@loyalistcollege.com
+460,Anna Serrano,500166959,2021-11-23,Off Campus,Global Project Management,3,Suggestion/ Feedback,Not Relevant Complaint,anna.serrano@loyalistcollege.com
+461,Matthew Reddy,500961909,2022-07-26,Off Campus,Global Business Management,4,Other,Not Resolved,matthew.reddy@loyalistcollege.com
+462,Kaitlin Johnson,500994287,2021-03-14,In Class,Wireless Information Networking,2,Inquiry,Resolved,kaitlin.johnson@loyalistcollege.com
+463,Lori Mitchell,500836104,2021-02-03,On Co-op/Placement,Business,1,Other,Not Resolved,lori.mitchell@loyalistcollege.com
+464,James Moore,500128960,2022-09-23,In Class,Global Business Management,3,Suggestion/ Feedback,Not Resolved,james.moore@loyalistcollege.com
+465,Bridget Thompson,500651357,2021-11-19,Moodle / E- Learning,Computer Software and Database Development,2,Suggestion/ Feedback,Not Relevant Complaint,bridget.thompson@loyalistcollege.com
+466,Samantha Kumar,500573549,2021-05-17,In Class,Global Project Management,3,Suggestion/ Feedback,In Progress,samantha.kumar@loyalistcollege.com
+467,Dana Koch,500888988,2022-10-03,Moodle / E- Learning,Artificial Intelligence and Data Science,1,Other,Not Resolved,dana.koch@loyalistcollege.com
+468,Theresa Webb,500809803,2023-06-29,Moodle / E- Learning,Artificial Intelligence and Data Science,2,Other,Not Resolved,theresa.webb@loyalistcollege.com
+469,Meghan Williams,500311485,2023-06-04,Moodle / E- Learning,Cloud Computing,1,Other,Not Resolved,meghan.williams@loyalistcollege.com
+470,Douglas Jackson,500224686,2022-10-02,Off Campus,Wireless Information Networking,2,Suggestion/ Feedback,Not Relevant Complaint,douglas.jackson@loyalistcollege.com
+471,John Reddy,500621233,2023-04-21,In Class,Artificial Intelligence and Data Science,2,Inquiry,Resolved,john.reddy@loyalistcollege.com
+472,Shawn Ford,500517284,2021-11-23,Applied Industry Project,Cloud Computing,1,Inquiry,Resolved,shawn.ford@loyalistcollege.com
+473,Brenda Cunningham,500368938,2021-01-07,In Class,Supply Chain Management,1,Other,Not Relevant Complaint,brenda.cunningham@loyalistcollege.com
+474,Timothy Smith,500317298,2021-07-31,In Class,Supply Chain Management,4,Inquiry,In Progress,timothy.smith@loyalistcollege.com
+475,Robert Cooke,500772134,2023-04-05,On Co-op/Placement,Quality Engineering Management,4,Suggestion/ Feedback,In Progress,robert.cooke@loyalistcollege.com
+476,Andrew Kaur,500144146,2023-01-31,In Class,Wireless Information Networking,1,Inquiry,Not Resolved,andrew.kaur@loyalistcollege.com
+477,Katrina Johnson,500936169,2022-04-25,Applied Industry Project,Cyber Security,4,Inquiry,In Progress,katrina.johnson@loyalistcollege.com
+478,Ashley Carr,500326381,2022-08-14,Moodle / E- Learning,Cloud Computing,3,Other,Not Relevant Complaint,ashley.carr@loyalistcollege.com
+479,Megan James,500753698,2023-04-25,Moodle / E- Learning,Supply Chain Management,3,Suggestion/ Feedback,In Progress,megan.james@loyalistcollege.com
+480,Jeffrey Mcintyre,500253463,2023-04-15,Applied Industry Project,Cyber Security,1,Suggestion/ Feedback,Not Resolved,jeffrey.mcintyre@loyalistcollege.com
+481,Mason Patel,500209712,2021-04-13,Moodle / E- Learning,Computer Systems Technician,1,Other,In Progress,mason.patel@loyalistcollege.com
+482,Chad Dixon,500307586,2021-05-02,On Campus,Cyber Security,2,Suggestion/ Feedback,In Progress,chad.dixon@loyalistcollege.com
+483,Angel Russell,500580675,2023-07-29,On Campus,Hospitality Management,2,Other,In Progress,angel.russell@loyalistcollege.com
+484,Tracy Reynolds,500496395,2023-02-05,On Co-op/Placement,Hospitality Management,4,Lost and Found,In Progress,tracy.reynolds@loyalistcollege.com
+485,John Walker,500479209,2021-01-24,Applied Industry Project,Computer Software and Database Development,3,Inquiry,In Progress,john.walker@loyalistcollege.com
+486,Ralph Kumar,500672932,2021-11-13,On Campus,Global Business Management,3,Suggestion/ Feedback,Not Resolved,ralph.kumar@loyalistcollege.com
+487,Jennifer Perkins,500967158,2022-10-14,In Class,Cloud Computing,2,Other,Not Resolved,jennifer.perkins@loyalistcollege.com
+488,Yolanda Dyer,500258685,2023-08-17,Off Campus,Computer Systems Technician,1,Lost and Found,Resolved,yolanda.dyer@loyalistcollege.com
+489,Alex Carr,500209834,2022-07-14,Off Campus,Business,4,Lost and Found,Not Resolved,alex.carr@loyalistcollege.com
+490,David Williams,500725203,2022-04-30,Moodle / E- Learning,Quality Engineering Management,3,Inquiry,Resolved,david.williams@loyalistcollege.com
+491,Marc Reddy,500611601,2021-05-11,Applied Industry Project,Computer Software and Database Development,3,Lost and Found,Not Relevant Complaint,marc.reddy@loyalistcollege.com
+492,Tracey Rodriguez,500255610,2021-02-06,Off Campus,Cyber Security,1,Suggestion/ Feedback,Resolved,tracey.rodriguez@loyalistcollege.com
+493,Amber Reeves,500691296,2022-01-07,On Campus,Computer Systems Technician,1,Lost and Found,Not Relevant Complaint,amber.reeves@loyalistcollege.com
+494,Jason Berg,500525624,2023-08-12,Applied Industry Project,Quality Engineering Management,3,Inquiry,Not Resolved,jason.berg@loyalistcollege.com
+495,Tim Reeves,500769372,2021-02-13,Off Campus,Supply Chain Management,4,Inquiry,Not Resolved,tim.reeves@loyalistcollege.com
+496,Cassandra Singh,500812957,2023-07-03,Moodle / E- Learning,Wireless Information Networking,2,Inquiry,In Progress,cassandra.singh@loyalistcollege.com
+497,Gilbert Jenkins,500543798,2023-03-08,Moodle / E- Learning,Hospitality Management,3,Suggestion/ Feedback,Not Relevant Complaint,gilbert.jenkins@loyalistcollege.com
+498,Whitney Campbell,500646547,2022-07-25,Off Campus,Supply Chain Management,4,Suggestion/ Feedback,Not Resolved,whitney.campbell@loyalistcollege.com
+499,Taylor Reed,500619470,2021-08-27,On Campus,Computer Software and Database Development,2,Lost and Found,Resolved,taylor.reed@loyalistcollege.com
+500,Pamela Mccoy,500812316,2022-12-25,Off Campus,Business Sales and Marketing,2,Lost and Found,Resolved,pamela.mccoy@loyalistcollege.com
